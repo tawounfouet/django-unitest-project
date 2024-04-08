@@ -1,5 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-# Django-Test-Project
+# Django Testing Project : Unit, Integration & Performance Test
 
 Ce projet a été réalisé dans le but de m'entrainer aux différentes formes de tests. Le code source contient un projet Django(un mini site e-commerce).J'ai ainsi pu développer l'ensemble des scénarios nécessaires afin de tester l'ensemble du code source d'une applicationd django.
 
