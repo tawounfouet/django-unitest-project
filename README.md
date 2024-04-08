@@ -12,10 +12,9 @@ Ce projet a été réalisé dans le but de m'entrainer aux différentes formes d
 
 ### 1. Téléchargement du projet sur un répertoire local : 
 ```
-git clone git@github.com:OpenClassrooms-Student-Center/4425126-testing-python-django.git 
-cd 4425126-testing-python-django
+git clone https://github.com/tawounfouet/testing-python-django.git
 ```
-### 2. Mettre en place un environnement virtuel :
+### 2. Mise en place un environnement virtuel :
 * Créer l'environnement virtuel: `python3.10 -m venv .env`
 * Activer l'environnement virtuel :
     * Windows : `venv\Scripts\activate.bat`
@@ -67,3 +66,5 @@ python manage.py test
 git checkout performance-test
 locust
 ```
+
+
