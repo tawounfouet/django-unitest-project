@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 # Django-Test-Project
 
-Ce projet a été implémenté dans le but de s'entrainer aux différentes formes de tests. Le code source contient un projet Django(un mini site e-commerce). Vous pourrez ainsi développer l'ensemble des scénarios nécessaires afin de tester l'ensemble du code source. À noter que des propositions de corrections sont mises à disposition dans différentes branches du répertoire.
+Ce projet a été réalisé dans le but de m'entrainer aux différentes formes de tests. Le code source contient un projet Django(un mini site e-commerce).J'ai ainsi pu développer l'ensemble des scénarios nécessaires afin de tester l'ensemble du code source d'une applicationd django.
 
 ## Pré-requis
 
@@ -10,7 +10,7 @@ Ce projet a été implémenté dans le but de s'entrainer aux différentes forme
 
 ## Installation
 
-### 1. Télécharger le projet sur votre répertoire local : 
+### 1. Téléchargement du projet sur un répertoire local : 
 ```
 git clone git@github.com:OpenClassrooms-Student-Center/4425126-testing-python-django.git 
 cd 4425126-testing-python-django
